@@ -1,0 +1,1608 @@
+{
+    "Kamehameha": {
+        "prefix": "kamehameha",
+        "body": [
+            "0 ; Kamehameha"
+        ]
+    },
+    "Bending Kamehameha": {
+        "prefix": "bendingkamehameha",
+        "body": [
+            "1 ; Bending Kamehameha"
+        ]
+    },
+    "Super God Fist": {
+        "prefix": "supergodfist",
+        "body": [
+            "2 ; Super God Fist"
+        ]
+    },
+    "Super Dragon Fist": {
+        "prefix": "superdragonfist",
+        "body": [
+            "3 ; Super Dragon Fist"
+        ]
+    },
+    "Spirit Bomb": {
+        "prefix": "spiritbomb",
+        "body": [
+            "4 ; Spirit Bomb"
+        ]
+    },
+    "Instant Transmission": {
+        "prefix": "instanttransmission",
+        "body": [
+            "5 ; Instant Transmission"
+        ]
+    },
+    "Spirit Bomb Tower": {
+        "prefix": "spiritbombtower",
+        "body": [
+            "6 ; Spirit Bomb Tower (Time Patrol Specific)"
+        ]
+    },
+    "Kaioken Assault": {
+        "prefix": "kaiokenassault",
+        "body": [
+            "7 ; Kaioken Assault"
+        ]
+    },
+    "Kaioken Kamehameha": {
+        "prefix": "kaiokenkamehameha",
+        "body": [
+            "8 ; Kaioken Kamehameha"
+        ]
+    },
+    "Riot Javelin": {
+        "prefix": "riotjavelin",
+        "body": [
+            "10 ; Riot Javelin"
+        ]
+    },
+    "Rebellion Spear": {
+        "prefix": "rebellionspear",
+        "body": [
+            "11 ; Rebellion Spear"
+        ]
+    },
+    "Tyrant Lancer": {
+        "prefix": "tyrantlancer",
+        "body": [
+            "12 ; Tyrant Lancer"
+        ]
+    },
+    "Super Guard": {
+        "prefix": "superguard",
+        "body": [
+            "14 ; Super Guard"
+        ]
+    },
+    "Ki Explosion": {
+        "prefix": "kiexplosion",
+        "body": [
+            "15 ; Ki Explosion"
+        ]
+    },
+    "Charged Ki Wave": {
+        "prefix": "chargedkiwave",
+        "body": [
+            "16 ; Charged Ki Wave"
+        ]
+    },
+    "Afterimage Strike": {
+        "prefix": "afterimagestrike",
+        "body": [
+            "20 ; Afterimage Strike"
+        ]
+    },
+    "x10 Kamehameha": {
+        "prefix": "x10kamehameha",
+        "body": [
+            "21 ; x10 Kamehameha"
+        ]
+    },
+    "Super Afterimage": {
+        "prefix": "superafterimage",
+        "body": [
+            "22 ; Super Afterimage"
+        ]
+    },
+    "Super God Fist2": {
+        "prefix": "supergodfist2",
+        "body": [
+            "30 ; Super God Fist2"
+        ]
+    },
+    "Shockwave": {
+        "prefix": "shockwave",
+        "body": [
+            "31 ; Shockwave"
+        ]
+    },
+    "Backflip": {
+        "prefix": "backflip",
+        "body": [
+            "32 ; Backflip"
+        ]
+    },
+    "Kamehameha Boost": {
+        "prefix": "kamehamehaboost",
+        "body": [
+            "40 ; Kamehameha Boost"
+        ]
+    },
+    "Scissors Paper Rock": {
+        "prefix": "scissorspaperrock",
+        "body": [
+            "41 ; Scissors Paper Rock"
+        ]
+    },
+    "Power Pole": {
+        "prefix": "powerpole",
+        "body": [
+            "42 ; Power Pole"
+        ]
+    },
+    "Power Pole Combo": {
+        "prefix": "powerpolecombo",
+        "body": [
+            "43 ; Power Pole Combo"
+        ]
+    },
+    "Power Pole2": {
+        "prefix": "powerpole2",
+        "body": [
+            "44 ; Power Pole2"
+        ]
+    },
+    "Charge": {
+        "prefix": "charge",
+        "body": [
+            "50 ; Charge"
+        ]
+    },
+    "Stone Bullet": {
+        "prefix": "stonebullet",
+        "body": [
+            "51 ; Stone Bullet"
+        ]
+    },
+    "Consecutive Energy Blast": {
+        "prefix": "consecutiveenergyblast",
+        "body": [
+            "52 ; Consecutive Energy Blast"
+        ]
+    },
+    "Kamekameha": {
+        "prefix": "kamekameha",
+        "body": [
+            "53 ; Kamekameha"
+        ]
+    },
+    "Evil Ray Strike": {
+        "prefix": "evilraystrike",
+        "body": [
+            "60 ; Evil Ray Strike"
+        ]
+    },
+    "Evil Rise Strike": {
+        "prefix": "evilrisestrike",
+        "body": [
+            "61 ; Evil Rise Strike"
+        ]
+    },
+    "Masenko": {
+        "prefix": "masenko",
+        "body": [
+            "62 ; Masenko"
+        ]
+    },
+    "ISK": {
+        "prefix": "isk",
+        "body": [
+            "63 ; ISK"
+        ]
+    },
+    "Super Dragon Flight": {
+        "prefix": "superdragonflight",
+        "body": [
+            "70 ; Super Dragon Flight"
+        ]
+    },
+    "Evil Whirlwind": {
+        "prefix": "evilwhirlwind",
+        "body": [
+            "71 ; Evil Whirlwind"
+        ]
+    },
+    "Burst Rush": {
+        "prefix": "burstrush",
+        "body": [
+            "80 ; Burst Rush"
+        ]
+    },
+    "Ki Blast Cannon": {
+        "prefix": "kiblastcannon",
+        "body": [
+            "81 ; Ki Blast Cannon"
+        ]
+    },
+    "Justice Pose": {
+        "prefix": "justicepose",
+        "body": [
+            "82 ; Justice Pose"
+        ]
+    },
+    "Evil Explosion": {
+        "prefix": "evilexplosion",
+        "body": [
+            "90 ; Evil Explosion"
+        ]
+    },
+    "Wall of Defense": {
+        "prefix": "wallofdefense",
+        "body": [
+            "91 ; Wall of Defense"
+        ]
+    },
+    "Evil Flight Strike": {
+        "prefix": "evilflightstrike",
+        "body": [
+            "92 ; Evil Flight Strike"
+        ]
+    },
+    "Light Grenade": {
+        "prefix": "lightgrenade",
+        "body": [
+            "93 ; Light Grenade"
+        ]
+    },
+    "Evil Eyes": {
+        "prefix": "evileyes",
+        "body": [
+            "94 ; Evil Eyes"
+        ]
+    },
+    "Dust Attack": {
+        "prefix": "dustattack",
+        "body": [
+            "95 ; Dust Attack"
+        ]
+    },
+    "Paralyze Beam": {
+        "prefix": "paralyzebeam",
+        "body": [
+            "96 ; Paralyze Beam"
+        ]
+    },
+    "Sonic Kick": {
+        "prefix": "sonickick",
+        "body": [
+            "97 ; Sonic Kick"
+        ]
+    },
+    "Orin Combo": {
+        "prefix": "orincombo",
+        "body": [
+            "100 ; Orin Combo"
+        ]
+    },
+    "Destructo-Disc": {
+        "prefix": "destructodisc",
+        "body": [
+            "101 ; Destructo-Disc"
+        ]
+    },
+    "Kaioken": {
+        "prefix": "kaioken",
+        "body": [
+            "102 ; Kaioken"
+        ]
+    },
+    "X3 Kaioken": {
+        "prefix": "x3kaioken",
+        "body": [
+            "103 ; X3 Kaioken"
+        ]
+    },
+    "X20 Kaioken": {
+        "prefix": "x20kaioken",
+        "body": [
+            "104 ; X20 Kaioken"
+        ]
+    },
+    "Turtle Style Last Resort": {
+        "prefix": "turtlestylelastresort",
+        "body": [
+            "105 ; Turtle Style Last Resort"
+        ]
+    },
+    "Lullaby Punch": {
+        "prefix": "lullabypunch",
+        "body": [
+            "106 ; Lullaby Punch"
+        ]
+    },
+    "Cross Arm Dive": {
+        "prefix": "crossarmdive",
+        "body": [
+            "107 ; Cross Arm Dive"
+        ]
+    },
+    "Super Destructo-Disc": {
+        "prefix": "superdestructodisc",
+        "body": [
+            "108 ; Super Destructo-Disc"
+        ]
+    },
+    "No Maching ID": {
+        "prefix": "nomachingid",
+        "body": [
+            "109 ; No Maching ID"
+        ]
+    },
+    "Wolf Fang Fist": {
+        "prefix": "wolffangfist",
+        "body": [
+            "110 ; Wolf Fang Fist"
+        ]
+    },
+    "Ki Blast Thrust": {
+        "prefix": "kiblastthrust",
+        "body": [
+            "111 ; Ki Blast Thrust"
+        ]
+    },
+    "Afterimage": {
+        "prefix": "afterimage",
+        "body": [
+            "115 ; Afterimage"
+        ]
+    },
+    "Fake Death": {
+        "prefix": "fakedeath",
+        "body": [
+            "116 ; Fake Death"
+        ]
+    },
+    "Neo Wolf Fang Fist": {
+        "prefix": "neowolffangfist",
+        "body": [
+            "117 ; Neo Wolf Fang Fist"
+        ]
+    },
+    "Dodon Ray": {
+        "prefix": "dodonray",
+        "body": [
+            "120 ; Dodon Ray"
+        ]
+    },
+    "Tri-Beam": {
+        "prefix": "tribeam",
+        "body": [
+            "121 ; Tri-Beam"
+        ]
+    },
+    "Volleyball Fist": {
+        "prefix": "volleyballfist",
+        "body": [
+            "122 ; Volleyball Fist"
+        ]
+    },
+    "Solar Flare": {
+        "prefix": "solarflare",
+        "body": [
+            "123 ; Solar Flare"
+        ]
+    },
+    "Rise to Action": {
+        "prefix": "risetoaction",
+        "body": [
+            "124 ; Rise to Action"
+        ]
+    },
+    "Spirit Boost": {
+        "prefix": "spiritboost",
+        "body": [
+            "125 ; Spirit Boost"
+        ]
+    },
+    "Double Sunday": {
+        "prefix": "doublesunday",
+        "body": [
+            "130 ; Double Sunday"
+        ]
+    },
+    "Saturday Crash": {
+        "prefix": "saturdaycrash",
+        "body": [
+            "131 ; Saturday Crash"
+        ]
+    },
+    "Shining Friday": {
+        "prefix": "shiningfriday",
+        "body": [
+            "132 ; Shining Friday"
+        ]
+    },
+    "Acid": {
+        "prefix": "acid",
+        "body": [
+            "140 ; Acid"
+        ]
+    },
+    "Poison": {
+        "prefix": "poison",
+        "body": [
+            "141 ; Poison"
+        ]
+    },
+    "Saibabeam": {
+        "prefix": "saibabeam",
+        "body": [
+            "142 ; Saibabeam"
+        ]
+    },
+    "Bomber DX": {
+        "prefix": "bomberdx",
+        "body": [
+            "150 ; Bomber DX"
+        ]
+    },
+    "Genocide Shell": {
+        "prefix": "genocideshell",
+        "body": [
+            "151 ; Genocide Shell"
+        ]
+    },
+    "Arm Crash": {
+        "prefix": "armcrash",
+        "body": [
+            "152 ; Arm Crash"
+        ]
+    },
+    "Murder Grenade": {
+        "prefix": "murdergrenade",
+        "body": [
+            "153 ; Murder Grenade"
+        ]
+    },
+    "Galick Gun": {
+        "prefix": "galickgun",
+        "body": [
+            "160 ; Galick Gun"
+        ]
+    },
+    "Flash Strike": {
+        "prefix": "flashstrike",
+        "body": [
+            "161 ; Flash Strike"
+        ]
+    },
+    "Finish Breaker": {
+        "prefix": "finishbreaker",
+        "body": [
+            "162 ; Finish Breaker"
+        ]
+    },
+    "Shine Shot": {
+        "prefix": "shineshot",
+        "body": [
+            "163 ; Shine Shot"
+        ]
+    },
+    "Sledgehammer": {
+    "prefix": "sledgehammer",
+    "body": [
+        "164 ; Sledgehammer"
+    ]
+},
+"Atomic Blast": {
+    "prefix": "atomicblast",
+    "body": [
+        "165 ; Atomic Blast"
+    ]
+},
+"Mighty Explosive Wave": {
+    "prefix": "mightyexplosivewave",
+    "body": [
+        "166 ; Mighty Explosive Wave"
+    ]
+},
+"Earth Splitting Galick Gun": {
+    "prefix": "earthsplittinggalickgun",
+    "body": [
+        "167 ; Earth Splitting Galick Gun"
+    ]
+},
+"Time Control": {
+    "prefix": "timecontrol",
+    "body": [
+        "180 ; Time Control"
+    ]
+},
+"Guldo Fighting Pose": {
+    "prefix": "guldofightingpose",
+    "body": [
+        "182 ; Guldo Fighting Pose"
+    ]
+},
+"Fighting Pose C": {
+    "prefix": "fightingposec",
+    "body": [
+        "183 ; Fighting Pose C"
+    ]
+},
+"Fighting Pose H": {
+    "prefix": "fightingposeh",
+    "body": [
+        "184 ; Fighting Pose H"
+    ]
+},
+"Fighting Pose D": {
+    "prefix": "fightingposed",
+    "body": [
+        "190 ; Fighting Pose D"
+    ]
+},
+"Fighting Pose I": {
+    "prefix": "fightingposei",
+    "body": [
+        "191 ; Fighting Pose I"
+    ]
+},
+"Mach Punch": {
+    "prefix": "machpunch",
+    "body": [
+        "192 ; Mach Punch"
+    ]
+},
+"Mach Kick": {
+    "prefix": "machkick",
+    "body": [
+        "193 ; Mach Kick"
+    ]
+},
+"Recoome Eraser Gun": {
+    "prefix": "recoomeerasergun",
+    "body": [
+        "200 ; Recoome Eraser Gun"
+    ]
+},
+"Recoome Kick": {
+    "prefix": "recoomekick",
+    "body": [
+        "201 ; Recoome Kick"
+    ]
+},
+"Fighting Pose E": {
+    "prefix": "fightingposee",
+    "body": [
+        "202 ; Fighting Pose E"
+    ]
+},
+"Fighting Pose J": {
+    "prefix": "fightingposej",
+    "body": [
+        "203 ; Fighting Pose J"
+    ]
+},
+"Fighting Pose K": {
+    "prefix": "fightingposek",
+    "body": [
+        "204 ; Fighting Pose K"
+    ]
+},
+"Crusher Ball": {
+    "prefix": "crusherball",
+    "body": [
+        "210 ; Crusher Ball"
+    ]
+},
+"Sauzer Blade": {
+    "prefix": "sauzerblade",
+    "body": [
+        "211 ; Sauzer Blade"
+    ]
+},
+"Fighting Pose B": {
+    "prefix": "fightingposeb",
+    "body": [
+        "212 ; Fighting Pose B"
+    ]
+},
+"Fighting Pose G": {
+    "prefix": "fightingposeg",
+    "body": [
+        "213 ; Fighting Pose G"
+    ]
+},
+"Fighting Pose A": {
+    "prefix": "fightingposea",
+    "body": [
+        "220 ; Fighting Pose A"
+    ]
+},
+"Holstein Shock": {
+    "prefix": "holsteinshock",
+    "body": [
+        "221 ; Holstein Shock"
+    ]
+},
+"Milky Cannon": {
+    "prefix": "milkycannon",
+    "body": [
+        "222 ; Milky Cannon"
+    ]
+},
+"Fighting Pose F": {
+    "prefix": "fightingposef",
+    "body": [
+        "223 ; Fighting Pose F"
+    ]
+},
+"Ginyu Force Special Combo": {
+    "prefix": "ginyuforcespecialcombo",
+    "body": [
+        "224 ; Ginyu Force Special Combo"
+    ]
+},
+"Emperor's Sign": {
+    "prefix": "emperorssign",
+    "body": [
+        "230 ; Emperor's Sign"
+    ]
+},
+"Death Beam": {
+    "prefix": "deathbeam",
+    "body": [
+        "240 ; Death Beam"
+    ]
+},
+"Death Psycho Bomb": {
+    "prefix": "deathpsychobomb",
+    "body": [
+        "241 ; Death Psycho Bomb"
+    ]
+},
+"Death Slash": {
+    "prefix": "deathslash",
+    "body": [
+        "242 ; Death Slash"
+    ]
+},
+"Death Crasher": {
+    "prefix": "deathcrasher",
+    "body": [
+        "243 ; Death Crasher"
+    ]
+},
+"Death Slicer": {
+    "prefix": "deathslicer",
+    "body": [
+        "244 ; Death Slicer"
+    ]
+},
+"Death Wave": {
+    "prefix": "deathwave",
+    "body": [
+        "245 ; Death Wave"
+    ]
+},
+"Crazy Finger Shot": {
+    "prefix": "crazyfingershot",
+    "body": [
+        "247 ; Crazy Finger Shot"
+    ]
+},
+"Burning Attack": {
+    "prefix": "burningattack",
+    "body": [
+        "260 ; Burning Attack"
+    ]
+},
+"God Breaker": {
+    "prefix": "godbreaker",
+    "body": [
+        "261 ; God Breaker"
+    ]
+},
+"Change The Future": {
+    "prefix": "changethefuture",
+    "body": [
+        "262 ; Change The Future"
+    ]
+},
+"Shining Slash": {
+    "prefix": "shiningslash",
+    "body": [
+        "264 ; Shining Slash"
+    ]
+},
+"Burning Slash": {
+    "prefix": "burningslash",
+    "body": [
+        "265 ; Burning Slash"
+    ]
+},
+"Finish Buster": {
+    "prefix": "finishbuster",
+    "body": [
+        "270 ; Finish Buster"
+    ]
+},
+"Double Buster": {
+    "prefix": "doublebuster",
+    "body": [
+        "271 ; Double Buster"
+    ]
+},
+"Final Cannon": {
+    "prefix": "finalcannon",
+    "body": [
+        "272 ; Final Cannon"
+    ]
+},
+"Side Bridge": {
+    "prefix": "sidebridge",
+    "body": [
+        "280 ; Side Bridge"
+    ]
+},
+"Freedom Kick": {
+    "prefix": "freedomkick",
+    "body": [
+        "281 ; Freedom Kick"
+    ]
+},
+"Smile Charge": {
+    "prefix": "smilecharge",
+    "body": [
+        "282 ; Smile Charge"
+    ]
+},
+"Flash Bomber": {
+    "prefix": "flashbomber",
+    "body": [
+        "290 ; Flash Bomber"
+    ]
+},
+"Drain Field": {
+    "prefix": "drainfield",
+    "body": [
+        "291 ; Drain Field"
+    ]
+},
+"Thunder Eraser": {
+    "prefix": "thundereraser",
+    "body": [
+        "292 ; Thunder Eraser"
+    ]
+},
+"Drain Charge": {
+    "prefix": "draincharge",
+    "body": [
+        "293 ; Drain Charge"
+    ]
+},
+"Super Drain": {
+    "prefix": "superdrain",
+    "body": [
+        "294 ; Super Drain"
+    ]
+},
+"Hyper Drain": {
+    "prefix": "hyperdrain",
+    "body": [
+        "295 ; Hyper Drain"
+    ]
+},
+"Power Blitz": {
+    "prefix": "powerblitz",
+    "body": [
+        "300 ; Power Blitz"
+    ]
+},
+"Endless Shoot": {
+    "prefix": "endlessshoot",
+    "body": [
+        "301 ; Endless Shoot"
+    ]
+},
+"Deadly Dance": {
+    "prefix": "deadlydance",
+    "body": [
+        "302 ; Deadly Dance"
+    ]
+},
+"All Clear": {
+    "prefix": "allclear",
+    "body": [
+        "310 ; All Clear"
+    ]
+},
+"Gravity Impact": {
+    "prefix": "gravityimpact",
+    "body": [
+        "311 ; Gravity Impact"
+    ]
+},
+"Perfect Shot": {
+    "prefix": "perfectshot",
+    "body": [
+        "312 ; Perfect Shot"
+    ]
+},
+"Taunt": {
+    "prefix": "taunt",
+    "body": [
+        "330 ; Taunt"
+    ]
+},
+"Justice Rush": {
+    "prefix": "justicerush",
+    "body": [
+        "340 ; Justice Rush"
+    ]
+},
+"Eagle Kick": {
+    "prefix": "eaglekick",
+    "body": [
+        "341 ; Eagle Kick"
+    ]
+},
+"Hawk Charge": {
+    "prefix": "hawkcharge",
+    "body": [
+        "342 ; Hawk Charge"
+    ]
+},
+"Innocence Bullet": {
+    "prefix": "innocencebullet",
+    "body": [
+        "350 ; Innocence Bullet"
+    ]
+},
+"Innocence Cannon": {
+    "prefix": "innocencecannon",
+    "body": [
+        "351 ; Innocence Cannon"
+    ]
+},
+"Angry Hit": {
+    "prefix": "angryhit",
+    "body": [
+        "352 ; Angry Hit"
+    ]
+},
+"Zigzag Express": {
+    "prefix": "zigzagexpress",
+    "body": [
+        "353 ; Zigzag Express"
+    ]
+},
+"Explosive Buu Buu Punch": {
+    "prefix": "explosivebuubuupunch",
+    "body": [
+        "354 ; Explosive Buu Buu Punch"
+    ]
+},
+"Go-Go Gum": {
+    "prefix": "gogogum",
+    "body": [
+        "355 ; Go-Go Gum"
+    ]
+},
+"Ill Flash": {
+    "prefix": "illflash",
+    "body": [
+        "360 ; Ill Flash"
+    ]
+},
+"Ill Bomber": {
+    "prefix": "illbomber",
+    "body": [
+        "361 ; Ill Bomber"
+    ]
+},
+"Ill Rain": {
+    "prefix": "illrain",
+    "body": [
+        "362 ; Ill Rain"
+    ]
+},
+"Majin Kamehameha": {
+    "prefix": "majinkamehameha",
+    "body": [
+        "370 ; Majin Kamehameha"
+    ]
+},
+"Vanishing Ball": {
+    "prefix": "vanishingball",
+    "body": [
+        "371 ; Vanishing Ball"
+    ]
+},
+"Quick Sleep": {
+    "prefix": "quicksleep",
+    "body": [
+        "372 ; Quick Sleep"
+    ]
+},
+"Pearl Flash": {
+    "prefix": "pearlflash",
+    "body": [
+        "373 ; Pearl Flash"
+    ]
+},
+"DIE DIE Missile Barrage": {
+    "prefix": "diediemissilebarrage",
+    "body": [
+        "380 ; DIE DIE Missile Barrage"
+    ]
+},
+"Galactic Donuts": {
+    "prefix": "galacticdonuts",
+    "body": [
+        "381 ; Galactic Donuts"
+    ]
+},
+"Super Ghost Kamikaze Attack": {
+    "prefix": "superghostkamikazeattack",
+    "body": [
+        "382 ; Super Ghost Kamikaze Attack"
+    ]
+},
+"Super Donut Volley": {
+    "prefix": "superdonutvolley",
+    "body": [
+        "383 ; Super Donut Volley"
+    ]
+},
+"Big Bang Attack": {
+    "prefix": "bigbangattack",
+    "body": [
+        "390 ; Big Bang Attack"
+    ]
+},
+"Pressure Sign": {
+    "prefix": "pressuresign",
+    "body": [
+        "391 ; Pressure Sign"
+    ]
+},
+"Split Finger Shot": {
+    "prefix": "splitfingershot",
+    "body": [
+        "392 ; Split Finger Shot"
+    ]
+},
+"Blaster Shell": {
+    "prefix": "blastershell",
+    "body": [
+        "400 ; Blaster Shell"
+    ]
+},
+"Gigantic Omega": {
+    "prefix": "giganticomega",
+    "body": [
+        "401 ; Gigantic Omega"
+    ]
+},
+"Gigantic Slam": {
+    "prefix": "giganticslam",
+    "body": [
+        "402 ; Gigantic Slam"
+    ]
+},
+"God of Destruction's Anger": {
+    "prefix": "godofdestructionanger",
+    "body": [
+        "410 ; God of Destruction's Anger"
+    ]
+},
+"God of Destruction's Rampage": {
+    "prefix": "godofdestructionrampage",
+    "body": [
+        "411 ; God of Destruction's Rampage"
+    ]
+},
+"God of Destruction's Wrath": {
+    "prefix": "godofdestructionwrath",
+    "body": [
+        "412 ; God of Destruction's Wrath"
+    ]
+},
+"Feint Shot": {
+    "prefix": "feintshot",
+    "body": [
+        "420 ; Feint Shot"
+    ]
+},
+"Prepare to be Punished": {
+    "prefix": "preparetobepunished",
+    "body": [
+        "421 ; Prepare to be Punished"
+    ]
+},
+"Dancing Parapara": {
+    "prefix": "dancingparapara",
+    "body": [
+        "422 ; Dancing Parapara"
+    ]
+},
+"Great Ape Beam": {
+    "prefix": "greatapebeam",
+    "body": [
+        "440 ; Great Ape Beam"
+    ]
+},
+"Boulder Toss": {
+    "prefix": "bouldertoss",
+    "body": [
+        "441 ; Boulder Toss"
+    ]
+},
+"Boulder Break": {
+    "prefix": "boulderbreak",
+    "body": [
+        "442 ; Boulder Break"
+    ]
+},
+"Brainwash Attack": {
+    "prefix": "brainwashattack",
+    "body": [
+        "443 ; Brainwash Attack"
+    ]
+},
+"Peeler Storm": {
+    "prefix": "peelerstorm",
+    "body": [
+        "444 ; Peeler Storm"
+    ]
+},
+"Freezing Beam": {
+    "prefix": "freezingbeam",
+    "body": [
+        "480 ; Freezing Beam"
+    ]
+},
+"Ice Claw": {
+    "prefix": "iceclaw",
+    "body": [
+        "482 ; Ice Claw"
+    ]
+},
+"Ice Field": {
+    "prefix": "icefield",
+    "body": [
+        "484 ; Ice Field"
+    ]
+},
+"Burst Attack": {
+    "prefix": "burstattack",
+    "body": [
+        "490 ; Burst Attack"
+    ]
+},
+"Burst Reflection": {
+    "prefix": "burstreflection",
+    "body": [
+        "492 ; Burst Reflection"
+    ]
+},
+"Fighting Sun": {
+    "prefix": "fightingsun",
+    "body": [
+        "494 ; Fighting Sun"
+    ]
+},
+"Dragon Flash Bullet": {
+    "prefix": "dragonflashbullet",
+    "body": [
+        "500 ; Dragon Flash Bullet"
+    ]
+},
+"Whirlwind Blade": {
+    "prefix": "whirlwindblade",
+    "body": [
+        "501 ; Whirlwind Blade"
+    ]
+},
+"Dragon Thunder": {
+    "prefix": "dragonthunder",
+    "body": [
+        "502 ; Dragon Thunder"
+    ]
+},
+"Big Bang Kamehameha": {
+    "prefix": "bigbangkamehameha",
+    "body": [
+        "510 ; Big Bang Kamehameha"
+    ]
+},
+"Bluff Kamehameha": {
+    "prefix": "bluffkamehameha",
+    "body": [
+        "511 ; Bluff Kamehameha"
+    ]
+},
+"Dynamite Kick": {
+    "prefix": "dynamitekick",
+    "body": [
+        "520 ; Dynamite Kick"
+    ]
+},
+"Rolling Hercule Punch": {
+    "prefix": "rollingherculepunch",
+    "body": [
+        "521 ; Rolling Hercule Punch"
+    ]
+},
+"Present For You": {
+    "prefix": "presentforyou",
+    "body": [
+        "522 ; Present For You"
+    ]
+},
+"Darkness Mixer": {
+    "prefix": "darknessmixer",
+    "body": [
+        "532 ; Darkness Mixer"
+    ]
+},
+"Bloody Sauce": {
+    "prefix": "bloodysauce",
+    "body": [
+        "533 ; Bloody Sauce"
+    ]
+},
+"Rage Saucer": {
+    "prefix": "ragesaucer",
+    "body": [
+        "534 ; Rage Saucer"
+    ]
+},
+"Energy Shot": {
+    "prefix": "energyshot",
+    "body": [
+        "590 ; Energy Shot"
+    ]
+},
+"Energy Charge": {
+    "prefix": "energycharge",
+    "body": [
+        "591 ; Energy Charge"
+    ]
+},
+"Full Power Charge": {
+    "prefix": "fullpowercharge",
+    "body": [
+        "592 ; Full Power Charge"
+    ]
+},
+"Maximum Charge": {
+    "prefix": "maximumcharge",
+    "body": [
+        "593 ; Maximum Charge"
+    ]
+},
+"Meteor Blow": {
+    "prefix": "meteorblow",
+    "body": [
+        "594 ; Meteor Blow"
+    ]
+},
+"Meteor Strike": {
+    "prefix": "meteorstrike",
+    "body": [
+        "595 ; Meteor Strike"
+    ]
+},
+"Meteor Crash": {
+    "prefix": "meteorcrash",
+    "body": [
+        "596 ; Meteor Crash"
+    ]
+},
+"Energy Wave Combo": {
+    "prefix": "energywavecombo",
+    "body": [
+        "597 ; Energy Wave Combo"
+    ]
+},
+"Beam Rifle": {
+    "prefix": "beamrifle",
+    "body": [
+        "600 ; Beam Rifle"
+    ]
+},
+"Galick Beam Cannon": {
+    "prefix": "galickbeamcannon",
+    "body": [
+        "620 ; Galick Beam Cannon"
+    ]
+},
+"Infinity Explosion": {
+    "prefix": "infinityexplosion",
+    "body": [
+        "621 ; Infinity Explosion"
+    ]
+},
+"Android Kick": {
+    "prefix": "androidkick",
+    "body": [
+        "622 ; Android Kick"
+    ]
+},
+"Phantom Fist": {
+    "prefix": "phantomfist",
+    "body": [
+        "623 ; Phantom Fist"
+    ]
+},
+"Position Shift": {
+    "prefix": "positionshift",
+    "body": [
+        "630 ; Position Shift"
+    ]
+},
+"Time Bullet": {
+    "prefix": "timebullet",
+    "body": [
+        "631 ; Time Bullet"
+    ]
+},
+"Energy Release": {
+    "prefix": "energyrelease",
+    "body": [
+        "632 ; Energy Release"
+    ]
+},
+"Prelude to Destruction": {
+    "prefix": "preludetodestruction",
+    "body": [
+        "650 ; Prelude to Destruction"
+    ]
+},
+"Strike of Revelation": {
+    "prefix": "strikeofrevelation",
+    "body": [
+        "651 ; Strike of Revelation"
+    ]
+},
+"Kai Kai": {
+    "prefix": "kaikai",
+    "body": [
+        "652 ; Kai Kai"
+    ]
+},
+"Finishing Blow": {
+    "prefix": "finishingblow",
+    "body": [
+        "653 ; Finishing Blow"
+    ]
+},
+"Elite Beam": {
+    "prefix": "elitebeam",
+    "body": [
+        "670 ; Elite Beam"
+    ]
+},
+"Elite Shooting": {
+    "prefix": "eliteshooting",
+    "body": [
+        "671 ; Elite Shooting"
+    ]
+},
+"Hero's Pose": {
+    "prefix": "herospose",
+    "body": [
+        "672 ; Hero's Pose"
+    ]
+},
+"Life Absorption": {
+    "prefix": "lifeabsorption",
+    "body": [
+        "750 ; Life Absorption"
+    ]
+},
+"Kamehameha2": {
+    "prefix": "kamehameha2",
+    "body": [
+        "751 ; Kamehameha2"
+    ]
+},
+"Super God Shock Flash": {
+    "prefix": "supergodshockflash",
+    "body": [
+        "800 ; Super God Shock Flash"
+    ]
+},
+"Burst Kamehameha": {
+    "prefix": "burstkamehameha",
+    "body": [
+        "801 ; Burst Kamehameha"
+    ]
+},
+"Final Blow": {
+    "prefix": "finalblow",
+    "body": [
+        "810 ; Final Blow"
+    ]
+},
+"Counter Burst": {
+    "prefix": "counterburst",
+    "body": [
+        "811 ; Counter Burst"
+    ]
+},
+"Emperor's Edge": {
+    "prefix": "emperorsedge",
+    "body": [
+        "820 ; Emperor's Edge"
+    ]
+},
+"Emperor's Blast": {
+    "prefix": "emperorsblast",
+    "body": [
+        "821 ; Emperor's Blast"
+    ]
+},
+"Rocket Punch": {
+    "prefix": "rocketpunch",
+    "body": [
+        "830 ; Rocket Punch"
+    ]
+},
+"Rocket Tackle": {
+    "prefix": "rockettackle",
+    "body": [
+        "831 ; Rocket Tackle"
+    ]
+},
+"Eye Beam": {
+    "prefix": "eyebeam",
+    "body": [
+        "832 ; Eye Beam"
+    ]
+},
+"Android Rush": {
+    "prefix": "androidrush",
+    "body": [
+        "833 ; Android Rush"
+    ]
+},
+"Feint Crash": {
+    "prefix": "feintcrash",
+    "body": [
+        "840 ; Feint Crash"
+    ]
+},
+"Destructive Ray": {
+    "prefix": "destructiveray",
+    "body": [
+        "841 ; Destructive Ray"
+    ]
+},
+"Shadow Crusher": {
+    "prefix": "shadowcrusher",
+    "body": [
+        "850 ; Shadow Crusher"
+    ]
+},
+"Sonic Rush": {
+    "prefix": "sonicrush",
+    "body": [
+        "860 ; Sonic Rush"
+    ]
+},
+"Super Explosive Wave": {
+    "prefix": "superexplosivewave",
+    "body": [
+        "861 ; Super Explosive Wave"
+    ]
+},
+"Senko Ki Blast": {
+    "prefix": "senkokiblast",
+    "body": [
+        "862 ; Senko Ki Blast"
+    ]
+},
+"Kill Driver": {
+    "prefix": "killdriver",
+    "body": [
+        "870 ; Kill Driver"
+    ]
+},
+"Fruit of the Tree of Might": {
+    "prefix": "fruitofthetreeofmight",
+    "body": [
+        "871 ; Fruit of the Tree of Might"
+    ]
+},
+"Sudden Storm": {
+    "prefix": "suddenstorm",
+    "body": [
+        "872 ; Sudden Storm"
+    ]
+},
+"Rakshasa's Claw": {
+    "prefix": "rakshasasclaw",
+    "body": [
+        "880 ; Rakshasa's Claw"
+    ]
+},
+"Dimensional Hole": {
+    "prefix": "dimensionalhole",
+    "body": [
+        "881 ; Dimensional Hole"
+    ]
+},
+"Punisher Drive": {
+    "prefix": "punisherdrive",
+    "body": [
+        "1200 ; Punisher Drive"
+    ]
+},
+"Super Mad Dance": {
+    "prefix": "supermaddance",
+    "body": [
+        "1201 ; Super Mad Dance"
+    ]
+},
+"Darkness Twin Star": {
+    "prefix": "darknesstwinstar",
+    "body": [
+        "1210 ; Darkness Twin Star"
+    ]
+},
+"Darkness Eye Beam": {
+    "prefix": "darknesseyebeam",
+    "body": [
+        "1211 ; Darkness Eye Beam"
+    ]
+},
+"Namek Finger": {
+    "prefix": "namekfinger",
+    "body": [
+        "1212 ; Namek Finger"
+    ]
+},
+"Mouth Cannon: short-range": {
+    "prefix": "mouthcannonshortrange",
+    "body": [
+        "1213 ; Mouth Cannon: short-range"
+    ]
+},
+"Mouth Cannon: mid-range": {
+    "prefix": "mouthcannonmidrange",
+    "body": [
+        "1214 ; Mouth Cannon: mid-range"
+    ]
+},
+"Mouth Cannon: long-range": {
+    "prefix": "mouthcannonlongrange",
+    "body": [
+        "1215 ; Mouth Cannon: long-range"
+    ]
+},
+"Evil Roar": {
+    "prefix": "evilroar",
+    "body": [
+        "1216 ; Evil Roar"
+    ]
+},
+"Gorgeous Shot": {
+    "prefix": "gorgeousshot",
+    "body": [
+        "1220 ; Gorgeous Shot"
+    ]
+},
+"Audacious Laugh": {
+    "prefix": "audaciouslaugh",
+    "body": [
+        "1221 ; Audacious Laugh"
+    ]
+},
+"Dodoria Headbutt": {
+    "prefix": "dodoriaheadbutt",
+    "body": [
+        "1230 ; Dodoria Headbutt"
+    ]
+},
+"Dodoria Beam": {
+    "prefix": "dodoriabeam",
+    "body": [
+        "1231 ; Dodoria Beam"
+    ]
+},
+"Critical Upper": {
+    "prefix": "criticalupper",
+    "body": [
+        "1232 ; Critical Upper"
+    ]
+},
+"Giga Boost": {
+    "prefix": "gigaboost",
+    "body": [
+        "1233 ; Giga Boost"
+    ]
+},
+"Do or Die": {
+    "prefix": "doodie",
+    "body": [
+        "1240 ; Do or Die"
+    ]
+},
+
+"Marbling Drop": {
+    "prefix": "marblingdrop",
+    "body": [
+        "1251 ; Marbling Drop"
+    ]
+},
+"Instant Charge": {
+	"prefix": "1252",
+	"body": [
+		"1252 ; Instant Charge"
+	],
+	"description": "Instant Charge"
+},
+"Flash Fist Crush": {
+	"prefix": "1260",
+	"body": [
+		"1260 ; Flash Fist Crush"
+	],
+	"description": "Flash Fist Crush"
+},
+"Aura Slide": {
+	"prefix": "1310",
+	"body": [
+		"1310 ; Aura Slide"
+	],
+	"description": "Aura Slide"
+},
+"Dual Masenko": {
+	"prefix": "1320",
+	"body": [
+		"1320 ; Dual Masenko"
+	],
+	"description": "Dual Masenko"
+},
+"Chaos Shot": {
+	"prefix": "1330",
+	"body": [
+		"1330 ; Chaos Shot"
+	],
+	"description": "Chaos Shot"
+},
+"Galick Cannon": {
+	"prefix": "1340",
+	"body": [
+		"1340 ; Galick Cannon"
+	],
+	"description": "Galick Cannon"
+},
+"Time Skip/Flash Skewer": {
+	"prefix": "1350",
+	"body": [
+		"1350 ; Time Skip/Flash Skewer"
+	],
+	"description": "Time Skip/Flash Skewer"
+},
+"Time Skip/Back Breaker": {
+	"prefix": "1351",
+	"body": [
+		"1351 ; Time Skip/Back Breaker"
+	],
+	"description": "Time Skip/Back Breaker"
+},
+"Time Skip/Jump Spike": {
+	"prefix": "1352",
+	"body": [
+		"1352 ; Time Skip/Jump Spike"
+	],
+	"description": "Time Skip/Jump Spike"
+}
+}

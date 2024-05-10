@@ -1,0 +1,634 @@
+{
+	"Super Kamehameha": {
+		"prefix": "superkamehameha",
+		"body": [
+			"5000 ; Super Kamehameha"
+		]
+	},
+	"Super Saiyan": {
+		"prefix": "supersaiyan",
+		"body": [
+			"5001 ; Super Saiyan"
+		]
+	},
+	"Super Saiyan 2": {
+		"prefix": "supersaiyan2",
+		"body": [
+			"5002 ; Super Saiyan 2"
+		]
+	},
+	"Super Saiyan 3": {
+		"prefix": "supersaiyan3",
+		"body": [
+			"5003 ; Super Saiyan 3"
+		]
+	},
+	"Dragon Fist": {
+		"prefix": "dragonfist",
+		"body": [
+			"5004 ; Dragon Fist"
+		]
+	},
+	"x4 Kaioken Kamehameha": {
+		"prefix": "x4kaiokenkamehameha",
+		"body": [
+			"5005 ; x4 Kaioken Kamehameha"
+		]
+	},
+	"x20 Kaioken Kamehameha": {
+		"prefix": "x20kaiokenkamehameha",
+		"body": [
+			"5006 ; x20 Kaioken Kamehameha"
+		]
+	},
+	"Breaker Energy Wave": {
+		"prefix": "breakerenergywave",
+		"body": [
+			"5007 ; Breaker Energy Wave"
+		]
+	},
+	"Saiyan Spirit": {
+		"prefix": "saiyanspirit",
+		"body": [
+			"5010 ; Saiyan Spirit"
+		]
+	},
+	"Super Ki Explosion": {
+		"prefix": "superkiexplosion",
+		"body": [
+			"5011 ; Super Ki Explosion"
+		]
+	},
+	"Brave Heat": {
+		"prefix": "braveheat",
+		"body": [
+			"5012 ; Brave Heat"
+		]
+	},
+	"Full Power Energy Wave": {
+		"prefix": "fullpowerenergywave",
+		"body": [
+			"5013 ; Full Power Energy Wave"
+		]
+	},
+	"Super Spirit Bomb": {
+		"prefix": "superspiritbomb",
+		"body": [
+			"5040 ; Super Spirit Bomb"
+		]
+	},
+	"Full Power Energy Blast Volley": {
+		"prefix": "fullpowerenergyblastvolley",
+		"body": [
+			"5050 ; Full Power Energy Blast Volley"
+		]
+	},
+	"Explosive Assault": {
+		"prefix": "explosiveassault",
+		"body": [
+			"5060 ; Explosive Assault"
+		]
+	},
+	"Unrelenting Barrage": {
+		"prefix": "unrelentingbarrage",
+		"body": [
+			"5061 ; Unrelenting Barrage"
+		]
+	},
+	"Father-Son Kamehameha": {
+		"prefix": "fathersonkamehameha",
+		"body": [
+			"5070 ; Father-Son Kamehameha"
+		]
+	},
+	"Potential Unleashed": {
+		"prefix": "potentialunleashed",
+		"body": [
+			"5080 ; Potential Unleashed"
+		]
+	},
+	"Potential Awoken": {
+		"prefix": "potentialawoken",
+		"body": [
+			"5081 ; Potential Awoken"
+		]
+	},
+	"Special Beam Cannon": {
+		"prefix": "specialbeamcannon",
+		"body": [
+			"5090 ; Special Beam Cannon"
+		]
+	},
+	"hellzonegrenade": {
+		"prefix": "hellzonegrenade",
+		"body": [
+			"5091 ; Hellzone Grenade"
+		]
+	},
+	"reversemabakusenko": {
+		"prefix": "reversemabakusenko",
+		"body": [
+			"5092 ; Reverse Mabakusenko"
+		]
+	},
+	"chaindestructo-discbarrage": {
+		"prefix": "chaindestructo-discbarrage",
+		"body": [
+			"5100 ; Chain Destructo-disc Barrage"
+		]
+	},
+	"scatterkamehameha": {
+		"prefix": "scatterkamehameha",
+		"body": [
+			"5101 ; Scatter Kamehameha"
+		]
+	},
+	"spiritball": {
+		"prefix": "spiritball",
+		"body": [
+			"5110 ; Spirit Ball"
+		]
+	},
+	"neotri-beam": {
+		"prefix": "neotri-beam",
+		"body": [
+			"5120 ; Neo Tri-Beam"
+		]
+	},
+	"weekend": {
+		"prefix": "weekend",
+		"body": [
+			"5130 ; Weekend"
+		]
+	},
+	"vacationdelete": {
+		"prefix": "vacationdelete",
+		"body": [
+			"5131 ; Vacation Delete"
+		]
+	},
+	"self-destruct": {
+		"prefix": "self-destruct",
+		"body": [
+			"5140 ; Self-Destruct"
+		]
+	},
+	"breakcannon": {
+		"prefix": "breakcannon",
+		"body": [
+			"5150 ; Break Cannon"
+		]
+	},
+	"giantstorm": {
+		"prefix": "giantstorm",
+		"body": [
+			"5151 ; Giant Storm"
+		]
+	},
+	"supervegeta": {
+		"prefix": "supervegeta",
+		"body": [
+			"5160 ; Super Vegeta"
+		]
+	},
+	"finalflash": {
+		"prefix": "finalflash",
+		"body": [
+			"5161 ; Final Flash"
+        ]
+    },
+	"supervegeta2": {
+		"prefix": "supervegeta2",
+		"body": [
+			"5162 ; Super Vegeta 2"
+		]
+	},
+	"finalexplosion": {
+		"prefix": "finalexplosion",
+		"body": [
+			"5163 ; Final Explosion"
+		]
+	},
+	"finalshineattack": {
+		"prefix": "finalshineattack",
+		"body": [
+			"5170 ; Final Shine Attack"
+		]
+	},
+	"paralysis": {
+		"prefix": "paralysis",
+		"body": [
+			"5180 ; Paralysis"
+		]
+	},
+	"bluehurricane": {
+		"prefix": "bluehurricane",
+		"body": [
+			"5190 ; Blue Hurricane"
+		]
+	},
+	"ultrafightingbomber": {
+		"prefix": "ultrafightingbomber",
+		"body": [
+			"5200 ; Ultra Fighting Bomber"
+		]
+	},
+	"crushervolcano": {
+		"prefix": "crushervolcano",
+		"body": [
+			"5210 ; Crusher Volcano"
+		]
+	},
+	"bodychange": {
+		"prefix": "bodychange",
+		"body": [
+			"5220 ; Body Change"
+		]
+	},
+	"supernova": {
+		"prefix": "supernova",
+		"body": [
+			"5230 ; Supernova"
+		]
+	},
+	"deathball": {
+		"prefix": "deathball",
+		"body": [
+			"5240 ; Death Ball"
+		]
+	},
+	"deathmeteor": {
+		"prefix": "deathmeteor",
+		"body": [
+			"5241 ; Death Meteor"
+		]
+	},
+	"doubledethslicer": {
+		"prefix": "doubledethslicer",
+		"body": [
+			"5242 ; Double Death Slicer"
+		]
+	},
+	"lastemperor": {
+		"prefix": "lastemperor",
+		"body": [
+			"5243 ; Last Emperor"
+		]
+	},
+	"heatdomeattack": {
+		"prefix": "heatdomeattack",
+		"body": [
+			"5260 ; Heat Dome Attack"
+		]
+	},
+	"victoryrush": {
+		"prefix": "victoryrush",
+		"body": [
+			"5270 ; Victory Rush"
+		]
+	},
+	"superelectricstrike": {
+		"prefix": "superelectricstrike",
+		"body": [
+			"5280 ; Super Electric Strike"
+		]
+	},
+	"deadendbullet": {
+		"prefix": "deadendbullet",
+		"body": [
+			"5281 ; Dead End Bullet"
+		]
+	},
+	"shockingdeathball": {
+		"prefix": "shockingdeathball",
+		"body": [
+			"5290 ; Shocking Death Ball"
+		]
+	},
+	"dualdestructo-disc": {
+		"prefix": "dualdestructo-disc",
+		"body": [
+			"5301 ; Dual Destructo-Disc"
+		]
+	},
+	"deadendrain": {
+		"prefix": "deadendrain",
+		"body": [
+			"5302 ; Dead End Rain"
+		]
+	},
+	"perfectkamehameha": {
+		"prefix": "perfectkamehameha",
+		"body": [
+			"5310 ; Perfect Kamehameha"
+		]
+	},
+	"justicecombination": {
+		"prefix": "justicecombination",
+		"body": [
+			"5340 ; Justice Combination"
+		]
+	},
+	"innocencebreath": {
+		"prefix": "innocencebreath",
+		"body": [
+			"5350 ; Innocence Breath"
+		]
+	},
+	"cookiebeam": {
+		"prefix": "cookiebeam",
+		"body": [
+			"5351 ; Cookie Beam"
+		]
+	},
+	"angryexplosion": {
+		"prefix": "angryexplosion",
+		"body": [
+			"5352 ; Angry Explosion"
+		]
+	},
+	"assaultrain": {
+		"prefix": "assaultrain",
+		"body": [
+			"5360 ; Assault Rain"
+		]
+	},
+	"supervanishingball": {
+		"prefix": "supervanishingball",
+		"body": [
+			"5370 ; Super Vanishing Ball"
+		]
+	},
+	"teleportingvanishingball": {
+		"prefix": "teleportingvanishingball",
+		"body": [
+			"5371 ; Teleporting Vanishing Ball"
+		]
+	},
+	"superghostkamikazeattack": {
+		"prefix": "superghostkamikazeattack",
+		"body": [
+			"5380 ; Super Ghost Kamikaze Attack"
+		]
+	},
+	"spiritsword": {
+		"prefix": "spiritsword",
+		"body": [
+			"5390 ; Spirit Sword"
+		]
+	},
+	"finalkamehameha": {
+		"prefix": "finalkamehameha",
+		"body": [
+			"5391 ; Final Kamehameha"
+		]
+	},
+	"giganticmeteor": {
+		"prefix": "giganticmeteor",
+		"body": [
+			"5400 ; Gigantic Meteor"
+		]
+	},
+	"sphereofdestruction": {
+		"prefix": "sphereofdestruction",
+		"body": [
+			"5410 ; Sphere of Destruction"
+		]
+	},
+	"maidenblast": {
+		"prefix": "maidenblast",
+		"body": [
+			"5420 ; Maiden Blast"
+		]
+	},
+	"supergreatapebeam": {
+		"prefix": "supergreatapebeam",
+		"body": [
+			"5440 ; Super Great Ape Beam"
+		]
+	},
+	"gigantickiblast": {
+		"prefix": "gigantickiblast",
+		"body": [
+			"5441 ; Gigantic Ki Blast"
+		]
+	},
+	"icecannon": {
+		"prefix": "icecannon",
+		"body": [
+			"5480 ; Ice Cannon"
+		]
+	},
+	"burningspin": {
+		"prefix": "burningspin",
+		"body": [
+			"5490 ; Burning Spin"
+		]
+	},
+	"minuenergyball": {
+		"prefix": "minuenergyball",
+		"body": [
+			"5500 ; Minus Energy Power Ball"
+		]
+	},
+	"x100bigbangkamehameha": {
+		"prefix": "x100bigbangkamehameha",
+		"body": [
+			"5510 ; X 100 Big Bang Kamehameha"
+		]
+	},
+	"thesaviorhascome": {
+		"prefix": "thesaviorhascome",
+		"body": [
+			"5520 ; The Savior Has Come"
+		]
+	},
+	"villainousmode": {
+		"prefix": "villainousmode",
+		"body": [
+			"5530 ; Villainous Mode"
+		]
+	},
+	"bakedsphere": {
+		"prefix": "bakedsphere",
+		"body": [
+			"5531 ; Baked Sphere"
+		]
+	},
+	"villainousmode(super saiyan)": {
+		"prefix": "villainousmode(super saiyan)",
+		"body": [
+			"5533 ; Villainous Mode (Super Saiyan)"
+		]
+	},
+	"villainousmode(super saiyan 2)": {
+		"prefix": "villainousmode(super saiyan 2)",
+		"body": [
+			"5534 ; Villainous Mode (Super Saiyan 2)"
+		]
+	},
+	"seriousbomb": {
+		"prefix": "seriousbomb",
+		"body": [
+			"5620 ; Serious Bomb"
+		]
+	},
+	"energyzone": {
+		"prefix": "energyzone",
+		"body": [
+			"5630 ; Energy Zone"
+		]
+	},
+	"symphonicdestruction": {
+		"prefix": "symphonicdestruction",
+		"body": [
+			"5650 ; Symphonic Destruction"
+		]
+	},
+	"superelitecombo": {
+		"prefix": "superelitecombo",
+		"body": [
+			"5670 ; Super Elite Combo"
+		]
+	},
+	"zetsumeibullet": {
+		"prefix": "zetsumeibullet",
+		"body": [
+			"5750 ; Zetsumei Bullet"
+		]
+	},
+	"warpkamehameha": {
+		"prefix": "warpkamehameha",
+		"body": [
+			"5800 ; Warp Kamehameha"
+		]
+	},
+	"supergalickgun": {
+		"prefix": "supergalickgun",
+		"body": [
+			"5810 ; Super Galick Gun"
+		]
+	},
+	"emperorsdeathbeam": {
+		"prefix": "emperorsdeathbeam",
+		"body": [
+			"5820 ; Emperor's Death Beam"
+		]
+	},
+	"hellflash": {
+		"prefix": "hellflash",
+		"body": [
+			"5830 ; Hell Flash"
+		]
+	},
+	"supernovacooler": {
+		"prefix": "supernovacooler",
+		"body": [
+			"5850 ; Supernova Cooler"
+		]
+	},
+	"one-handedkamehamehamk.ii": {
+		"prefix": "one-handedkamehamehamk.ii",
+		"body": [
+			"5860 ; One-Handed Kamehameha mk.II"
+		]
+	},
+	"futuresupersaiyan": {
+		"prefix": "futuresupersaiyan",
+		"body": [
+			"5861 ; Future Super Saiyan"
+		]
+	},
+	"one-handedkamehameha": {
+		"prefix": "one-handedkamehameha",
+		"body": [
+			"5862 ; One-Handed Kamehameha"
+		]
+	},
+	"meteorburst": {
+		"prefix": "meteorburst",
+		"body": [
+			"5870 ; Meteor Burst"
+		]
+	},
+	"dimensionray": {
+		"prefix": "dimensionray",
+		"body": [
+			"5880 ; Dimension Ray"
+		]
+	},
+	"soulpunisher": {
+		"prefix": "soulpunisher",
+		"body": [
+			"6200 ; Soul Punisher"
+		]
+	},
+	"darknessrush(ranged)": {
+		"prefix": "darknessrush(ranged)",
+		"body": [
+			"6210 ; Darkness Rush (Ranged)"
+		]
+	},
+	"darknessrush(melee)": {
+		"prefix": "darknessrush(melee)",
+		"body": [
+			"6211 ; Darkness Rush (Melee)"
+		]
+	},
+	"elegantblaster": {
+		"prefix": "elegantblaster",
+		"body": [
+			"6220 ; Elegant Blaster"
+		]
+	},
+	"dodorialauncher": {
+		"prefix": "dodorialauncher",
+		"body": [
+			"6230 ; Dodoria Launcher"
+		]
+	},
+	"mysticflash": {
+		"prefix": "mysticflash",
+		"body": [
+			"6240 ; Mystic Flash"
+		]
+	},
+	"gigantickiblast2": {
+		"prefix": "gigantickiblast2",
+		"body": [
+			"6251 ; Gigantic Ki Blast"
+		]
+	},
+	"timeskip/molotov": {
+		"prefix": "timeskip/molotov",
+		"body": [
+			"6260 ; Time Skip/Molotov"
+		]
+	},
+	"superblackkamehameha": {
+		"prefix": "superblackkamehameha",
+		"body": [
+			"6310 ; Super Black Kamehameha"
+		]
+	},
+	"burningstrike": {
+		"prefix": "burningstrike",
+		"body": [
+			"6320 ; Burning Strike"
+		]
+	},
+	"secretpoison": {
+		"prefix": "secretpoison",
+		"body": [
+			"6330 ; Secret Poison"
+		]
+	},
+	"impulseslash": {
+		"prefix": "impulseslash",
+		"body": [
+			"6340 ; Impulse Slash"
+		]
+	}
+}
+
+		

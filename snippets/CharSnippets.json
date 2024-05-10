@@ -1,0 +1,720 @@
+{
+    "Goku": {
+        "prefix": "Goku",
+        "body": [
+            "GOK"
+        ]
+    },
+    "Bardock": {
+        "prefix": "Bardock",
+        "body": [
+            "BDK"
+        ]
+    },
+    "Goku (Super Saiyan 4)": {
+        "prefix": "Goku (Super Saiyan 4)",
+        "body": [
+            "GK4"
+        ]
+    },
+    "Goku (Super Saiyan God)": {
+        "prefix": "Goku (Super Saiyan God)",
+        "body": [
+            "GOD"
+        ]
+    },
+    "Goku (GT)": {
+        "prefix": "Goku (GT)",
+        "body": [
+            "GKG"
+        ]
+    },
+    "Goten": {
+        "prefix": "Goten",
+        "body": [
+            "GTG"
+        ]
+    },
+    "Gohan (Kid)": {
+        "prefix": "Gohan (Kid)",
+        "body": [
+            "GHS"
+        ]
+    },
+    "Gohan (Teen)": {
+        "prefix": "Gohan (Teen)",
+        "body": [
+            "GHM"
+        ]
+    },
+    "Gohan (Adult)": {
+        "prefix": "Gohan (Adult)",
+        "body": [
+            "GHL"
+        ]
+    },
+    "Piccolo": {
+        "prefix": "Piccolo",
+        "body": [
+            "PIC"
+        ]
+    },
+    "Krillin": {
+        "prefix": "Krillin",
+        "body": [
+            "KLL"
+        ]
+    },
+    "Yamcha": {
+        "prefix": "Yamcha",
+        "body": [
+            "YMC"
+        ]
+    },
+    "Tien": {
+        "prefix": "Tien",
+        "body": [
+            "TSH"
+        ]
+    },
+    "Raditz": {
+        "prefix": "Raditz",
+        "body": [
+            "RAD"
+        ]
+    },
+    "Kaiwareman": {
+        "prefix": "Kaiwareman",
+        "body": [
+            "SBM"
+        ]
+    },
+    "Nappa": {
+        "prefix": "Nappa",
+        "body": [
+            "NAP"
+        ]
+    },
+    "Vegeta": {
+        "prefix": "Vegeta",
+        "body": [
+            "VGT"
+        ]
+    },
+    "Vegeta (Super Saiyan 4)": {
+        "prefix": "Vegeta (Super Saiyan 4)",
+        "body": [
+            "VG4"
+        ]
+    },
+    "Guldo": {
+        "prefix": "Guldo",
+        "body": [
+            "GRD"
+        ]
+    },
+    "Burter": {
+        "prefix": "Burter",
+        "body": [
+            "BAT"
+        ]
+    },
+    "Recoome": {
+        "prefix": "Recoome",
+        "body": [
+            "RCM"
+        ]
+    },
+    "Jeice": {
+        "prefix": "Jeice",
+        "body": [
+            "JES"
+        ]
+    },
+    "Captain Ginyu": {
+        "prefix": "Captain Ginyu",
+        "body": [
+            "GNY"
+        ]
+    },
+    "Frieza (1st Form)": {
+        "prefix": "Frieza (1st Form)",
+        "body": [
+            "FRZ"
+        ]
+    },
+    "Frieza (Final Form)": {
+        "prefix": "Frieza (Final Form)",
+        "body": [
+            "FR4"
+        ]
+    },
+    "Frieza (Full Power)": {
+        "prefix": "Frieza (Full Power)",
+        "body": [
+            "FR5"
+        ]
+    },
+    "Trunks": {
+        "prefix": "Trunks",
+        "body": [
+            "TRX"
+        ]
+    },
+    "Trunks (Kid)": {
+        "prefix": "Trunks (Kid)",
+        "body": [
+            "TRS"
+        ]
+    },
+    "Android 17": {
+        "prefix": "Android 17",
+        "body": [
+            "G17"
+        ]
+    },
+    "Super 17": {
+        "prefix": "Super 17",
+        "body": [
+            "S17"
+        ]
+    },
+    "Android 18": {
+        "prefix": "Android 18",
+        "body": [
+            "G18"
+        ]
+    },
+    "Cell (Perfect)": {
+        "prefix": "Cell (Perfect)",
+        "body": [
+            "CL3"
+        ]
+    },
+    "Cell (Full Power)": {
+        "prefix": "Cell (Full Power)",
+        "body": [
+            "CL4"
+        ]
+    },
+    "Cell Jr.": {
+        "prefix": "Cell Jr.",
+        "body": [
+            "CLJ"
+        ]
+    },
+    "Videl": {
+        "prefix": "Videl",
+        "body": [
+            "VDL"
+        ]
+    },
+    "Majin Buu": {
+        "prefix": "Majin Buu",
+        "body": [
+            "BUL"
+        ]
+    },
+    "Super Buu": {
+        "prefix": "Super Buu",
+        "body": [
+            "BUM"
+        ]
+    },
+    "Kid Buu": {
+        "prefix": "Kid Buu",
+        "body": [
+            "BUS"
+        ]
+    },
+    "Gotenks": {
+        "prefix": "Gotenks",
+        "body": [
+            "GTX"
+        ]
+    },
+    "Vegito": {
+        "prefix": "Vegito",
+        "body": [
+            "VTO"
+        ]
+    },
+    "Broly": {
+        "prefix": "Broly",
+        "body": [
+            "BRL"
+        ]
+    },
+    "God of Destruction Beerus": {
+        "prefix": "God of Destruction Beerus",
+        "body": [
+            "BLS"
+        ]
+    },
+    "Pan": {
+        "prefix": "Pan",
+        "body": [
+            "PAN"
+        ]
+    },
+    "Great Ape Vegeta": {
+        "prefix": "Great Ape Vegeta",
+        "body": [
+            "OSV"
+        ]
+    },
+    "Great Ape Bardock": {
+        "prefix": "Great Ape Bardock",
+        "body": [
+            "OSB"
+        ]
+    },
+    "Great Ape Baby": {
+        "prefix": "Great Ape Baby",
+        "body": [
+            "OBB"
+        ]
+    },
+    "Eis Shenron": {
+        "prefix": "Eis Shenron",
+        "body": [
+            "SD3"
+        ]
+    },
+    "Nuova Shenron": {
+        "prefix": "Nuova Shenron",
+        "body": [
+            "SD4"
+        ]
+    },
+    "Omega Shenron": {
+        "prefix": "Omega Shenron",
+        "body": [
+            "SD1"
+        ]
+    },
+    "Gogeta (Super Saiyan 4)": {
+        "prefix": "Gogeta (Super Saiyan 4)",
+        "body": [
+            "GGT"
+        ]
+    },
+    "Hercule": {
+        "prefix": "Hercule",
+        "body": [
+            "STN"
+        ]
+    },
+    "Demon God Demigra": {
+        "prefix": "Demon God Demigra",
+        "body": [
+            "DMG"
+        ]
+    },
+    "Demon God Demigra (Final Form)": {
+        "prefix": "Demon God Demigra (Final Form)",
+        "body": [
+            "DM2"
+        ]
+    },
+    "Shenron": {
+        "prefix": "Shenron",
+        "body": [
+            "SIN"
+        ]
+    },
+    "Supreme Kai of Time": {
+        "prefix": "Supreme Kai of Time",
+        "body": [
+            "TOK"
+        ]
+    },
+    "Majin Buu (Small)": {
+        "prefix": "Majin Buu (Small)",
+        "body": [
+            "BUZ"
+        ]
+    },
+    "Nabana": {
+        "prefix": "Nabana",
+        "body": [
+            "APL"
+        ]
+    },
+    "Raspberry": {
+        "prefix": "Raspberry",
+        "body": [
+            "RSB"
+        ]
+    },
+    "Mira": {
+        "prefix": "Mira",
+        "body": [
+            "MIR"
+        ]
+    },
+    "Towa": {
+        "prefix": "Towa",
+        "body": [
+            "TOW"
+        ]
+    },
+    "Whis": {
+        "prefix": "Whis",
+        "body": [
+            "WIS"
+        ]
+    },
+    "Jaco": {
+        "prefix": "Jaco",
+        "body": [
+            "JCO"
+        ]
+    },
+    "Captain Ginyu (Goku's body)": {
+        "prefix": "Captain Ginyu (Goku's body)",
+        "body": [
+            "FRG"
+        ]
+    },
+    "Hercule (GT)": {
+        "prefix": "Hercule (GT)",
+        "body": [
+            "STD"
+        ]
+    },
+    "Great Ape Nappa": {
+        "prefix": "Great Ape Nappa",
+        "body": [
+            "OSN"
+        ]
+    },
+    "Cell (First Form)": {
+        "prefix": "Cell (First Form)",
+        "body": [
+            "CL1"
+        ]
+    },
+    "Tokitoki": {
+        "prefix": "Tokitoki",
+        "body": [
+            "TKT"
+        ]
+    },
+    "Elder Kai": {
+        "prefix": "Elder Kai",
+        "body": [
+            "ROK"
+        ]
+    },
+    "SSGSS Goku": {
+        "prefix": "SSGSS Goku",
+        "body": [
+            "GGK"
+        ]
+    },
+    "SSGSS Vegeta": {
+        "prefix": "SSGSS Vegeta",
+        "body": [
+            "GVG"
+        ]
+    },
+    "Golden Frieza": {
+        "prefix": "Golden Frieza",
+        "body": [
+            "GFR"
+        ]
+    },
+    "Android 16": {
+        "prefix": "Android 16",
+        "body": [
+            "G16"
+        ]
+    },
+    "Metal Cooler": {
+        "prefix": "Metal Cooler",
+        "body": [
+            "COL"
+        ]
+    },
+    "Cooler (Final Form)": {
+        "prefix": "Cooler (Final Form)",
+        "body": [
+            "CO2"
+        ]
+    },
+    "Gohan (Future)": {
+        "prefix": "Gohan (Future)",
+        "body": [
+            "GHF"
+        ]
+    },
+    "Turles": {
+        "prefix": "Turles",
+        "body": [
+            "TLS"
+        ]
+    },
+    "Janemba": {
+        "prefix": "Janemba",
+        "body": [
+            "JNB"
+        ]
+    },
+    "Time Patrol Ranger SYM": {
+        "prefix": "Time Patrol Ranger SYM",
+        "body": [
+            "TG1"
+        ]
+    },
+    "Time Patrol Ranger SYF": {
+        "prefix": "Time Patrol Ranger SYF",
+        "body": [
+            "TG2"
+        ]
+    },
+    "Time Patrol Ranger NAM": {
+        "prefix": "Time Patrol Ranger NAM",
+        "body": [
+            "TG3"
+        ]
+    },
+    "Time Patrol Ranger MAM": {
+        "prefix": "Time Patrol Ranger MAM",
+        "body": [
+            "TG4"
+        ]
+    },
+    "Time Patrol Ranger MAF": {
+        "prefix": "Time Patrol Ranger MAF",
+        "body": [
+            "TG5"
+        ]
+    },
+    
+        "Gogeta (Super Saiyan)": {
+            "prefix": "Gogeta (Super Saiyan)",
+            "body": [
+                "GG1"
+            ]
+        },
+        "Lord Slug": {
+            "prefix": "Lord Slug",
+            "body": [
+                "SLG"
+            ]
+        },
+        "Zarbon": {
+            "prefix": "Zarbon",
+            "body": [
+                "ZBN"
+            ]
+        },
+        "Dodoria": {
+            "prefix": "Dodoria",
+            "body": [
+                "DDR"
+            ]
+        },
+        "Nail": {
+            "prefix": "Nail",
+            "body": [
+                "NIL"
+            ]
+        },
+        "Mira (Final Form)": {
+            "prefix": "Mira (Final Form)",
+            "body": [
+                "MRN"
+            ]
+        },
+        "Hit": {
+            "prefix": "Hit",
+            "body": [
+                "HIT"
+            ]
+        },
+        "Dende": {
+            "prefix": "Dende",
+            "body": [
+                "DND"
+            ]
+        },
+        "Guru": {
+            "prefix": "Guru",
+            "body": [
+                "SCR"
+            ]
+        },
+        "Bulma": {
+            "prefix": "Bulma",
+            "body": [
+                "BLM"
+            ]
+        },
+        "Goku Black": {
+            "prefix": "Goku Black",
+            "body": [
+                "GKB"
+            ]
+        },
+        "Future Trunks": {
+            "prefix": "Future Trunks",
+            "body": [
+                "TRF"
+            ]
+        },
+        "Frost": {
+            "prefix": "Frost",
+            "body": [
+                "FRS"
+            ]
+        },
+        "Cabba": {
+            "prefix": "Cabba",
+            "body": [
+                "CAB"
+            ]
+        },
+        "Hit(Awoken)": {
+            "prefix": "Hit(Awoken)",
+            "body": [
+                "HIK"
+            ]
+        },
+        "Vados (WIP)": {
+            "prefix": "Vados (WIP)",
+            "body": [
+                "VDS"
+            ]
+        },
+        "Champa (WIP)": {
+            "prefix": "Champa (WIP)",
+            "body": [
+                "CMP"
+            ]
+        },
+            "Super Saiyan": {
+                "prefix": "Super Saiyan",
+                "body": [
+                    "25000"
+                ]
+            },
+            "Power Pole Pro": {
+                "prefix": "Power Pole Pro",
+                "body": [
+                    "25001"
+                ]
+            },
+            "Become Giant": {
+                "prefix": "Become Giant",
+                "body": [
+                    "25002"
+                ]
+            },
+            "Turn Golden": {
+                "prefix": "Turn Golden",
+                "body": [
+                    "25003"
+                ]
+            },
+            "Purification": {
+                "prefix": "Purification",
+                "body": [
+                    "25004"
+                ]
+            },
+            "Kaioken": {
+                "prefix": "Kaioken",
+                "body": [
+                    "25005"
+                ]
+            },
+            "Potential Unleashed": {
+                "prefix": "Potential Unleashed",
+                "body": [
+                    "25006"
+                ]
+            },
+            "Super Saiyan 1": {
+                "prefix": "Super Saiyan 1",
+                "body": [
+                    "25007"
+                ]
+            },
+            "Super Saiyan 2": {
+                "prefix": "Super Saiyan 2",
+                "body": [
+                    "25070"
+                ]
+            },
+            "Super Saiyan 3": {
+                "prefix": "Super Saiyan 3",
+                "body": [
+                    "25080"
+                ]
+            },
+            "Super Saiyan 4": {
+                "prefix": "Super Saiyan 4",
+                "body": [
+                    "25160"
+                ]
+            },
+            "Super Vegeta 1": {
+                "prefix": "Super Vegeta 1",
+                "body": [
+                    "25161"
+                ]
+            },
+            "Super Vegeta 2": {
+                "prefix": "Super Vegeta 2",
+                "body": [
+                    "25162"
+                ]
+            },
+            "Supervillain: Giant 1": {
+                "prefix": "Supervillain: Giant 1",
+                "body": [
+                    "25320"
+                ]
+            },
+            "Supervillain: Giant 2": {
+                "prefix": "Supervillain: Giant 2",
+                "body": [
+                    "25321"
+                ]
+            },
+            "Supervillain: Giant 3": {
+                "prefix": "Supervillain: Giant 3",
+                "body": [
+                    "25322"
+                ]
+            },
+            "Super Saiyan Blue Kaioken": {
+                "prefix": "Super Saiyan Blue Kaioken",
+                "body": [
+                    "25800"
+                ]
+            },
+            "Future Super Saiyan 1": {
+                "prefix": "Future Super Saiyan 1",
+                "body": [
+                    "25860"
+                ]
+            },
+            "Future Super Saiyan 2": {
+                "prefix": "Future Super Saiyan 2",
+                "body": [
+                    "25861"
+                ]
+            },
+            "Pure Progress": {
+                "prefix": "Pure Progress",
+                "body": [
+                    "26350"
+                ]
+            }
+        }
+        
+    
+    

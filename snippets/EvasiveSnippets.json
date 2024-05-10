@@ -1,0 +1,261 @@
+
+{
+    "Spirit Explosion": {
+        "prefix": "Spirit Explosion",
+        "body": [
+            "10000 ; Spirit Explosion"
+        ]
+    },
+    "Turn Retreat": {
+        "prefix": "Turn Retreat",
+        "body": [
+            "10001 ; Turn Retreat"
+        ]
+    },
+    "High Tension Turn": {
+        "prefix": "High Tension Turn",
+        "body": [
+            "10050 ; High Tension Turn"
+        ]
+    },
+    "Spirit Slash": {
+        "prefix": "Spirit Slash",
+        "body": [
+            "10060 ; Spirit Slash"
+        ]
+    },
+    "Super Explosive Wave": {
+        "prefix": "Super Explosive Wave",
+        "body": [
+            "10090 ; Super Explosive Wave"
+        ]
+    },
+    "Special Beam Blast": {
+        "prefix": "Special Beam Blast",
+        "body": [
+            "10091 ; Special Beam Blast"
+        ]
+    },
+    "Spread Shot Retreat": {
+        "prefix": "Spread Shot Retreat",
+        "body": [
+            "10101 ; Spread Shot Retreat"
+        ]
+    },
+    "Break Strike": {
+        "prefix": "Break Strike",
+        "body": [
+            "10130 ; Break Strike"
+        ]
+    },
+    "Explosive Wave": {
+        "prefix": "Explosive Wave",
+        "body": [
+            "10160 ; Explosive Wave"
+        ]
+    },
+    "Psycho Escape": {
+        "prefix": "Psycho Escape",
+        "body": [
+            "10180 ; Psycho Escape"
+        ]
+    },
+    "Miracle Kneel": {
+        "prefix": "Miracle Kneel",
+        "body": [
+            "10181 ; Miracle Kneel"
+        ]
+    },
+    "Mach Dash": {
+        "prefix": "Mach Dash",
+        "body": [
+            "10190 ; Mach Dash"
+        ]
+    },
+    "Final Pose": {
+        "prefix": "Final Pose",
+        "body": [
+            "10200 ; Final Pose"
+        ]
+    },
+    "Spinning Blade": {
+        "prefix": "Spinning Blade",
+        "body": [
+            "10210 ; Spinning Blade"
+        ]
+    },
+    "Psychic Move": {
+        "prefix": "Psychic Move",
+        "body": [
+            "10240 ; Psychic Move"
+        ]
+    },
+    "Armored Boost": {
+        "prefix": "Armored Boost",
+        "body": [
+            "10260 ; Armored Boost"
+        ]
+    },
+    "Energy Field": {
+        "prefix": "Energy Field",
+        "body": [
+            "10280 ; Energy Field"
+        ]
+    },
+    "Rolling Bullet": {
+        "prefix": "Rolling Bullet",
+        "body": [
+            "10300 ; Rolling Bullet"
+        ]
+    },
+    "Energy Barrier": {
+        "prefix": "Energy Barrier",
+        "body": [
+            "10310 ; Energy Barrier"
+        ]
+    },
+    "Instant Rise": {
+        "prefix": "Instant Rise",
+        "body": [
+            "10331 ; Instant Rise"
+        ]
+    },
+    "Super Back Jump": {
+        "prefix": "Super Back Jump",
+        "body": [
+            "10340 ; Super Back Jump"
+        ]
+    },
+    "Super Front Jump": {
+        "prefix": "Super Front Jump",
+        "body": [
+            "10341 ; Super Front Jump"
+        ]
+    },
+    "Candy Beam": {
+        "prefix": "Candy Beam",
+        "body": [
+            "10350 ; Candy Beam"
+        ]
+    },
+    "Buu Buu Ball": {
+        "prefix": "Buu Buu Ball",
+        "body": [
+            "10351 ; Buu Buu Ball"
+        ]
+    },
+    "Dimension Cannon": {
+        "prefix": "Dimension Cannon",
+        "body": [
+            "10360 ; Dimension Cannon"
+        ]
+    },
+    "Angry Shout": {
+        "prefix": "Angry Shout",
+        "body": [
+            "10370 ; Angry Shout"
+        ]
+    },
+    "Victory Cannon": {
+        "prefix": "Victory Cannon",
+        "body": [
+            "10380 ; Victory Cannon"
+        ]
+    },
+    "Force Shield": {
+        "prefix": "Force Shield",
+        "body": [
+            "10390 ; Force Shield"
+        ]
+    },
+    "Blaster Meteor": {
+        "prefix": "Blaster Meteor",
+        "body": [
+            "10400 ; Blaster Meteor"
+        ]
+    },
+    "Headshot": {
+        "prefix": "Headshot",
+        "body": [
+            "10410 ; Headshot"
+        ]
+    },
+    "Maiden Burst": {
+        "prefix": "Maiden Burst",
+        "body": [
+            "10420 ; Maiden Burst"
+        ]
+    },
+    "Howl": {
+        "prefix": "Howl",
+        "body": [
+            "10440 ; Howl"
+        ]
+    },
+    "Absolute Zero": {
+        "prefix": "Absolute Zero",
+        "body": [
+            "10480 ; Absolute Zero"
+        ]
+    },
+    "Dragon Burn": {
+        "prefix": "Dragon Burn",
+        "body": [
+            "10490 ; Dragon Burn"
+        ]
+    },
+    "Vanisher Guard": {
+        "prefix": "Vanisher Guard",
+        "body": [
+            "10510 ; Vanisher Guard"
+        ]
+    },
+    "Science Vanish": {
+        "prefix": "Science Vanish",
+        "body": [
+            "10630 ; Science Vanish"
+        ]
+    },
+    "Warp": {
+        "prefix": "Warp",
+        "body": [
+            "10650 ; Warp"
+        ]
+    },
+    "Elite Barrage": {
+        "prefix": "Elite Barrage",
+        "body": [
+            "10670 ; Elite Barrage"
+        ]
+    },
+    "Hyper Movement": {
+        "prefix": "Hyper Movement",
+        "body": [
+            "10840 ; Hyper Movement"
+        ]
+    },
+    "Fake Blast": {
+        "prefix": "Fake Blast",
+        "body": [
+            "10850 ; Fake Blast"
+        ]
+    },
+    "Energy Dome": {
+        "prefix": "Energy Dome",
+        "body": [
+            "10860 ; Energy Dome"
+        ]
+    },
+    "Bloody Counter": {
+        "prefix": "Bloody Counter",
+        "body": [
+            "11220 ; Bloody Counter"
+        ]
+    },
+    "Time Skip/Tremor Pulse": {
+        "prefix": "Time Skip/Tremor Pulse",
+        "body": [
+            "11350 ; Time Skip/Tremor Pulse"
+        ]
+    }
+}

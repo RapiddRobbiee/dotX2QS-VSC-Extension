@@ -1,0 +1,56 @@
+{
+  "name": "x2qs",
+  "displayName": "X2QS",
+  "description": "X2QS Syntax Highlights w/ Snippets",
+  "version": "2.2.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  
+  "contributes": {
+    "languages": [{
+      "id": "x2qs",
+      "aliases": ["X2QS", "x2qs"],
+      "extensions": [".x2qs"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "x2qs",
+      "scopeName": "source.x2qs",
+      "path": "./syntaxes/x2qs.tmLanguage.json"
+    }],
+    
+    "snippets": [
+      {
+        "language": "x2qs",
+        "path": "./snippets/SuperSnippets.json"
+      },
+      {
+        "language": "x2qs",
+        "path": "./snippets/UltSnippets.json"
+      },
+      {
+        "language": "x2qs",
+        "path": "./snippets/EvasiveSnippets.json"
+      },
+      {
+        "language": "x2qs", 
+        "path": "./snippets/CharSnippets.json"
+      }
+      
+      
+    
+    ],
+
+    "repository": {
+      "type": "git",
+      "url": ""
+
+
+    }
+      
+  }
+}
