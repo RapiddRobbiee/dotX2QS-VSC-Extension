@@ -3,6 +3,8 @@
   "displayName": "X2QS",
   "description": "X2QS Syntax Highlights w/ Snippets",
   "version": "2.2.0",
+  "repository": "https://github.com/RapiddRobbiee/dotX2QS-VSC-Extention",
+  "license": "./LICENSE",
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -17,6 +19,7 @@
       "extensions": [".x2qs"],
       "configuration": "./language-configuration.json"
     }],
+ 
     "grammars": [{
       "language": "x2qs",
       "scopeName": "source.x2qs",
@@ -43,14 +46,9 @@
       
       
     
-    ],
+    ]
 
-    "repository": {
-      "type": "git",
-      "url": ""
-
-
-    }
+   
       
   }
 }
